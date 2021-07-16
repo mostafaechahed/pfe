@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    
+    padding: 0px;
+    margin: 0px;
+}
+#accueil{margin-bottom: 20px;
+    width: 100vw;
+    height: 500px;
+}
+.role{
+    
+    height: 400px;
+}
+
+
+
